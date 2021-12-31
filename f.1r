@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-10-26T15:22:33.599-04:00</Created>
+        <LastChange>2021-05-19T22:04:17.185+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="f 1r.png" imageWidth="1341" imageHeight="506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1621454657273" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1575998443676_236"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1575998443676_236" custom="readingOrder {index:0;}">
+            <Coords points="561,22 911,22 911,507 561,507"/>
+            <TextLine id="line_1575998447976_239" custom="readingOrder {index:0;}">
+                <Coords points="588,23 868,23 868,47 588,47"/>
+                <TextEquiv>
+                    <Unicode>&lt;T&gt;he god cupide and venus the goddes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998450132_242" custom="readingOrder {index:1;}">
+                <Coords points="634,45 894,45 894,60 634,60"/>
+                <TextEquiv>
+                    <Unicode>whyche power hau on all worldly gladnes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998451820_245" custom="readingOrder {index:2;}">
+                <Coords points="640,61 892,61 892,72 640,72"/>
+                <TextEquiv>
+                    <Unicode>we hertly gretyng sende of oure humbles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998453852_248" custom="readingOrder {index:3;}">
+                <Coords points="584,78 681,78 681,96 584,96"/>
+                <TextEquiv>
+                    <Unicode>To louers alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998455672_251" custom="readingOrder {index:4;}">
+                <Coords points="584,93 858,93 858,106 584,106"/>
+                <TextEquiv>
+                    <Unicode>Doyng yow wite the duk that folkis calle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998457712_254" custom="readingOrder {index:5;}">
+                <Coords points="588,103 852,103 852,120 588,120"/>
+                <TextEquiv>
+                    <Unicode>Of Orlyaunce we him amytte and shall</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998459686_257" custom="readingOrder {index:6;}">
+                <Coords points="585,123 874,123 874,136 585,136"/>
+                <TextEquiv>
+                    <Unicode>[?] [?] servaunt which hath but yeris small</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998461706_260" custom="readingOrder {index:7;}">
+                <Coords points="585,133 725,133 725,157 585,157"/>
+                <TextEquiv>
+                    <Unicode>Of yowthe yit spent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998463538_263" custom="readingOrder {index:8;}">
+                <Coords points="586,146 858,146 858,167 586,167"/>
+                <TextEquiv>
+                    <Unicode>And we haue him assignyd on oure rent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998465498_266" custom="readingOrder {index:9;}">
+                <Coords points="577,165 823,165 823,186 577,186"/>
+                <TextEquiv>
+                    <Unicode>The fayrist pensonn aftir his entent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998467996_269" custom="readingOrder {index:10;}">
+                <Coords points="591,182 823,182 823,197 591,197"/>
+                <TextEquiv>
+                    <Unicode>Forto enyoy bi oure lettir patent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998469494_272" custom="readingOrder {index:11;}">
+                <Coords points="586,197 715,197 715,215 586,215"/>
+                <TextEquiv>
+                    <Unicode>While he good lust</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998471328_275" custom="readingOrder {index:12;}">
+                <Coords points="585,215 853,215 853,226 585,226"/>
+                <TextEquiv>
+                    <Unicode>hopyng forto fynde him trewe and iust</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998474214_278" custom="readingOrder {index:13;}">
+                <Coords points="585,226 858,226 858,242 585,242"/>
+                <TextEquiv>
+                    <Unicode>As in oure part that we no thing dislust</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998476398_281" custom="readingOrder {index:14;}">
+                <Coords points="586,240 828,240 828,258 586,258"/>
+                <TextEquiv>
+                    <Unicode>him to avaunce lo this we trust</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998477868_284" custom="readingOrder {index:15;}">
+                <Coords points="588,259 730,259 730,274 588,274"/>
+                <TextEquiv>
+                    <Unicode>In yowre entent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998480528_287" custom="readingOrder {index:16;}">
+                <Coords points="576,274 868,274 868,291 576,291"/>
+                <TextEquiv>
+                    <Unicode>Wherfore we gyve strayt comaundement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998482456_290" custom="readingOrder {index:17;}">
+                <Coords points="585,286 869,286 869,305 585,305"/>
+                <TextEquiv>
+                    <Unicode>To alle whiche ben as of oure parlement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998484692_293" custom="readingOrder {index:18;}">
+                <Coords points="583,297 885,297 885,319 583,319"/>
+                <TextEquiv>
+                    <Unicode>then forto helpe and ayde in eche turnement </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998486742_296" custom="readingOrder {index:19;}">
+                <Coords points="585,317 711,317 711,337 585,337"/>
+                <TextEquiv>
+                    <Unicode>In all they may</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998488766_299" custom="readingOrder {index:20;}">
+                <Coords points="584,336 869,336 869,355 584,355"/>
+                <TextEquiv>
+                    <Unicode>W[i]thout disdayne or any frawdyng way</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998490832_302" custom="readingOrder {index:21;}">
+                <Coords points="578,347 822,347 822,366 578,366"/>
+                <TextEquiv>
+                    <Unicode>As ye ben glad oure plesure to obay</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998492956_305" custom="readingOrder {index:22;}">
+                <Coords points="580,362 828,362 828,381 580,381"/>
+                <TextEquiv>
+                    <Unicode>In forfetyng now herlyn what y say</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998495136_308" custom="readingOrder {index:23;}">
+                <Coords points="583,381 725,381 725,398 583,398"/>
+                <TextEquiv>
+                    <Unicode>Bothe good and bad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998497208_311" custom="readingOrder {index:24;}">
+                <Coords points="579,398 794,398 794,413 579,413"/>
+                <TextEquiv>
+                    <Unicode>him to sus[?] [is?] his [necessite?]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998499808_314" custom="readingOrder {index:25;}">
+                <Coords points="585,413 791,413 791,428 585,428"/>
+                <TextEquiv>
+                    <Unicode>Agayn daunger and his affynyte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998501812_317" custom="readingOrder {index:26;}">
+                <Coords points="585,426 811,426 811,448 585,448"/>
+                <TextEquiv>
+                    <Unicode>Cursid daunger and wickid jelowse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998503608_320" custom="readingOrder {index:27;}">
+                <Coords points="580,445 699,445 699,459 580,459"/>
+                <TextEquiv>
+                    <Unicode>And fals dissayt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998505772_323" custom="readingOrder {index:28;}">
+                <Coords points="579,457 859,457 859,477 579,477"/>
+                <TextEquiv>
+                    <Unicode>for thorugh envyous sleightis they awayt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998508082_326" custom="readingOrder {index:29;}">
+                <Coords points="580,470 824,470 824,498 580,498"/>
+                <TextEquiv>
+                    <Unicode>[?]i trewe folk to hurt and to affayt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&lt;T&gt;he god cupide and venus the goddes
+whyche power hau on all worldly gladnes
+we hertly gretyng sende of oure humbles
+To louers alle
+Doyng yow wite the duk that folkis calle
+Of Orlyaunce we him amytte and shall
+[?] [?] servaunt which hath but yeris small
+Of yowthe yit spent
+And we haue him assignyd on oure rent
+The fayrist pensonn aftir his entent
+Forto enyoy bi oure lettir patent
+While he good lust
+hopyng forto fynde him trewe and iust
+As in oure part that we no thing dislust
+him to avaunce lo this we trust
+In yowre entent
+Wherfore we gyve strayt comaundement
+To alle whiche ben as of oure parlement
+then forto helpe and ayde in eche turnement 
+In all they may
+W[i]thout disdayne or any frawdyng way
+As ye ben glad oure plesure to obay
+In forfetyng now herlyn what y say
+Bothe good and bad
+him to sus[?] [is?] his [necessite?]
+Agayn daunger and his affynyte
+Cursid daunger and wickid jelowse
+And fals dissayt
+for thorugh envyous sleightis they awayt
+[?]i trewe folk to hurt and to affayt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
