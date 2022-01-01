@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-10-26T15:22:33.770-04:00</Created>
+        <LastChange>2021-05-19T22:04:20.509+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="f 2r.png" imageWidth="1341" imageHeight="506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1621454660605" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1579030764653_13"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1579030764653_13" custom="readingOrder {index:0;}">
+            <Coords points="395,15 759,15 759,496 395,496"/>
+            <TextLine id="line_1579030771645_16" custom="readingOrder {index:0;}">
+                <Coords points="461,15 750,15 750,35 461,35"/>
+                <TextEquiv>
+                    <Unicode>&lt;W&gt;hen in myn hand was tan me þis patent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030774847_19" custom="readingOrder {index:1;}">
+                <Coords points="463,34 748,34 748,54 463,54"/>
+                <TextEquiv>
+                    <Unicode>I seide my lord o verry god puysshaunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030778966_22" custom="readingOrder {index:2;} textStyle {offset:12; length:1;fontSize:0.0; kerning:0; superscript:true;} textStyle {offset:21; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="475,50 725,50 725,63 475,63"/>
+                <TextEquiv>
+                    <Unicode>Of pryncis prince o prince most excellent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030782496_25" custom="readingOrder {index:3;}">
+                <Coords points="415,67 686,67 686,85 415,85"/>
+                <TextEquiv>
+                    <Unicode>For all the world is to yow obeyshaunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030787332_28" custom="readingOrder {index:4;}">
+                <Coords points="415,83 673,83 673,93 415,93"/>
+                <TextEquiv>
+                    <Unicode>I poore wretche bicomen yowre servaunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030790680_31" custom="readingOrder {index:5;}">
+                <Coords points="414,95 630,95 630,114 414,114"/>
+                <TextEquiv>
+                    <Unicode>Ay witt so dulle and y untaught</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030794099_34" custom="readingOrder {index:6;}">
+                <Coords points="411,112 679,112 679,128 411,128"/>
+                <TextEquiv>
+                    <Unicode>That y kan not thanke yow as y aught</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030798985_37" custom="readingOrder {index:7;}">
+                <Coords points="434,130 693,130 693,144 434,144"/>
+                <TextEquiv>
+                    <Unicode>Or to my witt my tunge kan not suffise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030802586_40" custom="readingOrder {index:8;}">
+                <Coords points="409,144 685,144 685,160 409,160"/>
+                <TextEquiv>
+                    <Unicode>Twene ioy and woo my gost supposid is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030806444_43" custom="readingOrder {index:9;}">
+                <Coords points="411,159 670,159 670,177 411,177"/>
+                <TextEquiv>
+                    <Unicode>As this to thynke and this oft to avis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030812688_46" custom="readingOrder {index:10;}">
+                <Coords points="413,170 694,170 694,194 413,194"/>
+                <TextEquiv>
+                    <Unicode>My witt as now so renneth this and this</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030816230_49" custom="readingOrder {index:11;}">
+                <Coords points="417,189 681,189 681,205 417,205"/>
+                <TextEquiv>
+                    <Unicode>But as humbly y thanke yow lo y wis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030820185_52" custom="readingOrder {index:12;}">
+                <Coords points="415,202 673,202 673,217 415,217"/>
+                <TextEquiv>
+                    <Unicode>As kan be thought in any maner hert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030824538_55" custom="readingOrder {index:13;}">
+                <Coords points="417,215 675,215 675,232 417,232"/>
+                <TextEquiv>
+                    <Unicode>Or more if more that reson kan aduert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030831417_58" custom="readingOrder {index:14;}">
+                <Coords points="436,230 710,230 710,248 436,248"/>
+                <TextEquiv>
+                    <Unicode>&lt;O&gt;f that as loo hit liketh yowre good grace</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030836632_61" custom="readingOrder {index:15;}">
+                <Coords points="413,249 670,249 670,264 413,264"/>
+                <TextEquiv>
+                    <Unicode>me to reward more then y am worth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030840716_64" custom="readingOrder {index:16;}">
+                <Coords points="414,264 702,264 702,279 414,279"/>
+                <TextEquiv>
+                    <Unicode>For which that y while y haue lyvis space</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030847410_67" custom="readingOrder {index:17;}">
+                <Coords points="417,275 669,275 669,294 417,294"/>
+                <TextEquiv>
+                    <Unicode>[the?] sely will shall shewe to do trewly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030852925_70" custom="readingOrder {index:18;}">
+                <Coords points="415,293 656,293 656,315 415,315"/>
+                <TextEquiv>
+                    <Unicode>yowre plesere sely will nay verily</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030858613_73" custom="readingOrder {index:19;}">
+                <Coords points="414,310 651,310 651,328 414,328"/>
+                <TextEquiv>
+                    <Unicode>ay grettist will shall be forto deserue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030863010_76" custom="readingOrder {index:20;}">
+                <Coords points="409,324 696,324 696,342 409,342"/>
+                <TextEquiv>
+                    <Unicode>What ye haue doon not now but to y sterve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030867862_79" custom="readingOrder {index:21;}">
+                <Coords points="436,344 672,344 672,358 436,358"/>
+                <TextEquiv>
+                    <Unicode>[eserue?] fy my speche hit squarith oft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030876321_82" custom="readingOrder {index:22;}">
+                <Coords points="413,354 688,354 688,375 413,375"/>
+                <TextEquiv>
+                    <Unicode>For though y wolde allas hit may not be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030881059_85" custom="readingOrder {index:23;}">
+                <Coords points="414,369 661,369 661,389 414,389"/>
+                <TextEquiv>
+                    <Unicode>Doth to take for hit suffisith nought</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030884967_88" custom="readingOrder {index:24;}">
+                <Coords points="414,385 640,385 640,404 414,404"/>
+                <TextEquiv>
+                    <Unicode>For of the deth ye haue revid me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030888343_91" custom="readingOrder {index:25;}">
+                <Coords points="407,400 673,400 673,421 407,421"/>
+                <TextEquiv>
+                    <Unicode>That in me now as wys ther [?] parde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030892223_94" custom="readingOrder {index:26;}">
+                <Coords points="407,414 664,414 664,438 407,438"/>
+                <TextEquiv>
+                    <Unicode>This may y not deseue in myn entent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030896044_97" custom="readingOrder {index:27;}">
+                <Coords points="411,433 673,433 673,453 411,453"/>
+                <TextEquiv>
+                    <Unicode>But even the self[?] his ye haue me len</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030900112_100" custom="readingOrder {index:28;}">
+                <Coords points="437,447 682,447 682,467 437,467"/>
+                <TextEquiv>
+                    <Unicode>&lt;T&gt;hat ye have doon but ih[?] wis me so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1579030904547_103" custom="readingOrder {index:29;}">
+                <Coords points="411,462 684,462 684,487 411,487"/>
+                <TextEquiv>
+                    <Unicode>That what y do mat be to yowre plesere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&lt;W&gt;hen in myn hand was tan me þis patent
+I seide my lord o verry god puysshaunt
+Of pryncis prince o prince most excellent
+For all the world is to yow obeyshaunt
+I poore wretche bicomen yowre servaunt
+Ay witt so dulle and y untaught
+That y kan not thanke yow as y aught
+Or to my witt my tunge kan not suffise
+Twene ioy and woo my gost supposid is
+As this to thynke and this oft to avis
+My witt as now so renneth this and this
+But as humbly y thanke yow lo y wis
+As kan be thought in any maner hert
+Or more if more that reson kan aduert
+&lt;O&gt;f that as loo hit liketh yowre good grace
+me to reward more then y am worth
+For which that y while y haue lyvis space
+[the?] sely will shall shewe to do trewly
+yowre plesere sely will nay verily
+ay grettist will shall be forto deserue
+What ye haue doon not now but to y sterve
+[eserue?] fy my speche hit squarith oft
+For though y wolde allas hit may not be
+Doth to take for hit suffisith nought
+For of the deth ye haue revid me
+That in me now as wys ther [?] parde
+This may y not deseue in myn entent
+But even the self[?] his ye haue me len
+&lt;T&gt;hat ye have doon but ih[?] wis me so
+That what y do mat be to yowre plesere</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

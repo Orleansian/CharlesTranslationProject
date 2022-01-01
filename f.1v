@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-10-26T15:22:33.599-04:00</Created>
+        <LastChange>2021-05-19T22:04:18.776+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="f 1v.png" imageWidth="1341" imageHeight="506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1621454658855" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1575998170425_10"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1575998170425_10" custom="readingOrder {index:0;}">
+            <Coords points="439,20 827,20 827,491 439,491"/>
+            <TextLine id="line_1575998175887_13" custom="readingOrder {index:0;}">
+                <Coords points="448,34 731,34 731,58 448,58"/>
+                <TextEquiv>
+                    <Unicode>Of which that he is on in my consayt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998178267_16" custom="readingOrder {index:1;}">
+                <Coords points="453,51 592,51 592,71 453,71"/>
+                <TextEquiv>
+                    <Unicode>Syn he is swore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998180399_19" custom="readingOrder {index:2;}">
+                <Coords points="455,71 735,71 735,93 455,93"/>
+                <TextEquiv>
+                    <Unicode>As me to serue eche othir wight tofore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998182367_22" custom="readingOrder {index:3;}">
+                <Coords points="455,86 731,86 731,104 455,104"/>
+                <TextEquiv>
+                    <Unicode>not only now but his lyue euyrmore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998185545_25" custom="readingOrder {index:4;}">
+                <Coords points="443,104 749,104 749,124 443,124"/>
+                <TextEquiv>
+                    <Unicode>To payne him silf for any greef or sore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998187740_28" custom="readingOrder {index:5;}">
+                <Coords points="452,120 571,120 571,143 452,143"/>
+                <TextEquiv>
+                    <Unicode>In his servage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998190090_31" custom="readingOrder {index:6;}">
+                <Coords points="451,139 733,139 733,162 451,162"/>
+                <TextEquiv>
+                    <Unicode>For sewrte more he leuys in morgage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998192311_34" custom="readingOrder {index:7;} textStyle {offset:10; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="455,154 718,154 718,174 455,174"/>
+                <TextEquiv>
+                    <Unicode>his hert wtout disdayne of corage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998194351_37" custom="readingOrder {index:8;}">
+                <Coords points="456,175 738,175 738,196 456,196"/>
+                <TextEquiv>
+                    <Unicode>Not to refuse in then beyng it bondage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998196793_40" custom="readingOrder {index:9;}">
+                <Coords points="447,192 594,192 594,216 447,216"/>
+                <TextEquiv>
+                    <Unicode>The more biholde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998198871_43" custom="readingOrder {index:10;}">
+                <Coords points="455,212 758,212 758,232 455,232"/>
+                <TextEquiv>
+                    <Unicode>As we to hem god wot a thousand fold</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998201177_46" custom="readingOrder {index:11;}">
+                <Coords points="457,231 775,231 775,250 457,250"/>
+                <TextEquiv>
+                    <Unicode>Wherfore he shall not say he hath myssold</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998203533_49" custom="readingOrder {index:12;}">
+                <Coords points="453,249 780,249 780,268 453,268"/>
+                <TextEquiv>
+                    <Unicode>As his good will ar[s?]t forbede þat he shuld</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998205995_52" custom="readingOrder {index:13;}">
+                <Coords points="453,268 623,268 623,285 453,285"/>
+                <TextEquiv>
+                    <Unicode>hit were fowl doone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998207929_55" custom="readingOrder {index:14;}">
+                <Coords points="452,282 684,282 684,298 452,298"/>
+                <TextEquiv>
+                    <Unicode>But for ensample most abone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998209799_58" custom="readingOrder {index:15;}">
+                <Coords points="452,301 733,301 733,320 452,320"/>
+                <TextEquiv>
+                    <Unicode>To cause yong folk to loue more sone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998211689_61" custom="readingOrder {index:16;}">
+                <Coords points="447,318 728,318 728,338 447,338"/>
+                <TextEquiv>
+                    <Unicode>That causith as this him gardone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998213240_64" custom="readingOrder {index:17;}">
+                <Coords points="455,337 599,337 599,356 455,356"/>
+                <TextEquiv>
+                    <Unicode>Under oure seele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998226688_69" custom="readingOrder {index:18;}">
+                <Coords points="447,353 709,353 709,373 447,373"/>
+                <TextEquiv>
+                    <Unicode>Wherfore as loo bileue yow wele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998228997_72" custom="readingOrder {index:19;}">
+                <Coords points="452,373 681,373 681,390 452,390"/>
+                <TextEquiv>
+                    <Unicode>Oure feodaries or counselle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998231581_75" custom="readingOrder {index:20;}">
+                <Coords points="450,390 706,390 706,411 450,411"/>
+                <TextEquiv>
+                    <Unicode>We this haue doon not to repele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998234107_78" custom="readingOrder {index:21;}">
+                <Coords points="456,408 573,408 573,428 456,428"/>
+                <TextEquiv>
+                    <Unicode>In no manere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998236056_81" custom="readingOrder {index:22;}">
+                <Coords points="454,426 808,426 808,444 454,444"/>
+                <TextEquiv>
+                    <Unicode>Gyve on the day of seynt Valentyne þe martere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998238228_84" custom="readingOrder {index:23;}">
+                <Coords points="454,443 732,443 732,463 454,463"/>
+                <TextEquiv>
+                    <Unicode>As in the castell of humbill desere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575998240658_87" custom="readingOrder {index:24;}">
+                <Coords points="454,461 803,461 803,486 454,486"/>
+                <TextEquiv>
+                    <Unicode>As for the tyme oure counsell holdyng here</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Of which that he is on in my consayt&#xD;
+Syn he is swore&#xD;
+As me to serue eche othir wight tofore&#xD;
+not only now but his lyue euyrmore&#xD;
+To payne him silf for any greef or sore&#xD;
+In his servage&#xD;
+For sewrte more he leuys in morgage&#xD;
+his hert wtout disdayne of corage&#xD;
+Not to refuse in then beyng it bondage&#xD;
+The more biholde&#xD;
+As we to hem god wot a thousand fold&#xD;
+Wherfore he shall not say he hath myssold&#xD;
+As his good will ar[s?]t forbede þat he shuld&#xD;
+hit were fowl doone&#xD;
+But for ensample most abone&#xD;
+To cause yong folk to loue more sone&#xD;
+That causith as this him gardone&#xD;
+Under oure seele&#xD;
+Wherfore as loo bileue yow wele&#xD;
+Oure feodaries or counselle&#xD;
+We this haue doon not to repele&#xD;
+In no manere&#xD;
+Gyve on the day of seynt Valentyne þe martere&#xD;
+As in the castell of humbill desere&#xD;
+As for the tyme oure counsell holdyng here</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
