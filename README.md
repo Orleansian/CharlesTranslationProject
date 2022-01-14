@@ -1,11 +1,10 @@
 (In progress)
 # All Strangeness on the Ground: Translating the Middle English Poetry of Charles d'Orleans (Into XML)
-
-## Introduction
 This is a Git repository for the ongoing study of British Library Harley MS 682, the Middle English poetry of Charles d'Orleans. 
 
-The purpose of this project is to transcribe and produce an online version of the text of Harley MS 682. 
+The purpose of this project is to transcribe and produce an online version of the text of Harley MS 682. I began working on this manuscript in 2018 for my senior honors project for my BA in history. The original project was to translate the first poem cycle of the manuscript (two introductory narrative poems and 74 ballades, about 1000 lines) into present day English, presented with a paper explaining the process and my findings. At the time, I only had the transcription in Mary-Jo Arn's 1994 edition *Fortunes Stabilnes* to work from, it was only a year after my project that the BL digitized the manuscript and made it available online. 
 
+## Current proceedure
 1. Transcribe the text from the manuscript
 2. Create XML files of the text, one file per folio
 3. Compile a corpus of Charles's English
