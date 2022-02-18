@@ -6,13 +6,13 @@ The purpose of this project is to transcribe and produce an online version of th
 
 ## Current Goals
 1. Transcribe the text from the manuscript
-2. Create XML files of the text, one file per folio
+2. Create XML files of the text
 3. Compile a corpus of Charles's English
 4. Translate the ME text into Present Day English (a continuation of an earilier project, originally based on the transcription in *Fortunes Stabilnes* (Arn, 1994)
 5. Produce an online version of the text for other readers
 
 ## Transcription and File Guidelines
-Transcriptions are made from the scans of BL MS Harley 682, [available on the British Library's website](https://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_682). All characters are transcribed as seen, when possible. Scribal annotations that cannot be rendered in Unicode should be expanded. This transcription follows the guidelines in *Introduction to Manuscript Studies* by Raymond Clemens and Timothy Graham (Cornell, 2007).
+Transcriptions are made from the scans of BL MS Harley 682, [available on the British Library's website](https://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_682). All characters are transcribed as seen, when possible. Characters that cannot be rendered in Unicode should be expanded. This transcription follows the guidelines in *Introduction to Manuscript Studies* by Raymond Clemens and Timothy Graham (Cornell, 2007). The exception is in expansion of abbreviations, and as mentioned above, if possible, they are to be kept. The purpose of this transcription is not neccessarily readability, rather a sufficeintly faithful text of the manuscript.
 
 
 Files should be in well-formed and valid XML and either consist of one folio (page) per file, or one poem. The divisions are still TBA since the MS consists of 294 folios, so one file per folio may not be feasable. 
